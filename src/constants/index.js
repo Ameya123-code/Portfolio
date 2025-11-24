@@ -243,37 +243,38 @@ export const mySocials = [
 
 export const experiences = [
   {
-    title: "Software Developer",
-    job: "Security & Defense Projects",
-    date: "2021-2023",
+    title: "Student Developer",
+    job: "Independent Projects",
+    date: "2021–2023",
     contents: [
-      "Enhanced application security and developed new features, adhering to standards set by the Passive Defense Organization and National Cyberspace Center.",
-      "Designed and implemented intuitive map interfaces using MapsUI, enhancing user experience and enabling seamless interactive map integration.",
-      "Developed applications for industrial automation, leveraging C++ and the Fatek API for PLC communication.",
-      "Enhanced responsiveness and usability of applications using Windows Forms and WPF frameworks.",
-      "Executed XML to SVG conversions using X-DOM, ensuring dynamic and efficient data visualization.",
+      "Built a sound beat generator that allowed users to create custom beats through a simple, interactive UI.",
+      "Developed a chat-based web application with real-time messaging using basic web technologies.",
+      "Learned core concepts of JavaScript, frontend development, and project structuring through hands-on experimentation.",
+      "Worked on improving UI/UX design skills by iterating on project layouts and user flow.",
     ],
   },
   {
-    title: "Back-End Developer",
-    job: "Car Manufacture",
-    date: "2023-2024",
+    title: "Student Developer",
+    job: "Independent Projects & Minecraft Development",
+    date: "2021–2023",
     contents: [
-      "Engineered systems for large-scale data ingestion and analysis, ensuring efficient data processing and storage.",
-      "Developed back-end systems enabling vehicle-to-cloud communication for telemetry, diagnostics, and remote control:",
-      "✅ Implemented secure APIs, following ISO 26262 automotive safety standards.",
-      "✅ Ensured data privacy for customers and partners through industry-compliant protocols.",
-      "✅ Delivered remote features like over-the-air updates, real-time tracking, and remote start capabilities.",
+      "Learned Java, C++, and core programming concepts through self-driven projects.",
+      "Set up and managed multiple Minecraft servers, handling plugins, configurations, and optimization.",
+      "Developed custom Minecraft plugins using Java and the Paper/Spigot APIs (custom items, commands, game mechanics, automation, etc.).",
+      "Collaborated with Minecraft server teams to build and maintain gameplay features and developer tools.",
+      "Built smaller applications including a sound beat generator and a chat-based website to explore UI/UX and backend logic.",
     ],
   },
   {
-    title: "Freelance Developer",
-    job: "Self-Employed",
-    date: "2025-Present",
-    contents: [
-      "Created a personal portfolio using Three.js, React, Vite, and WebAPI to showcase technical expertise.",
-      "Continuously enhancing technical skills and expanding expertise in modern web development and back-end technologies.",
-    ],
+    title: "First Year Student",
+  job: "Student",
+  date: "2025–Present",
+  contents: [
+    "Built a personal portfolio using Three.js, React, Vite, and Web APIs to demonstrate projects and growing technical skills.",
+    "Applied modern frontend practices including component-based design, animations, and performance optimization.",
+    "Currently expanding skills in full-stack development alongside first-year computer engineering coursework.",
+    "Actively working on new web projects to strengthen understanding of JavaScript, backend fundamentals, and UI/UX design.",
+  ],
   },
 ];
 export const reviews = [
